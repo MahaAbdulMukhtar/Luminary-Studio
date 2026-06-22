@@ -3,7 +3,7 @@
 A multi-section static marketing page for a fictional creative agency, built as practice.
 
 ## Live Preview
-[View Live](https://MahaAbdulMukhtar.github.io/luminary-studio)
+[View Live](https://mahaabdulmukhtar.github.io/Luminary-Studio/)
 
 ---
 
